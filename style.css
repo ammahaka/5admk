@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
-  background-image: url('https://cdn.discordapp.com/attachments/1178250536940736523/1243413545195016192/download.png?ex=6651629a&is=6650111a&hm=1b64490f85c7e59ccc7fdca97972aff2fc22af0bafcf5f66495b430c9f3261b8&'); /* Replace with your image URL */
+  background-image: url('https://example.com/path/to/your/image.jpg'); /* Replace with your image URL */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
